@@ -4,10 +4,10 @@ Android UI 卡顿检测例子
 
 目前已经有两种比较典型方式来检测了：
 
-利用UI线程Looper打印的日志
-利用Choreographer
+1. 利用UI线程Looper打印的日志
+2. 利用Choreographer
 两种方式都有一些开源项目，例如：
 
-https://github.com/markzhai/AndroidPerformanceMonitor [方式1]
-https://github.com/wasabeef/Takt [方式2]
-https://github.com/friendlyrobotnyc/TinyDancer [方式2]
+1. https://github.com/markzhai/AndroidPerformanceMonitor [方式1]
+2. https://github.com/wasabeef/Takt [方式2]
+3. https://github.com/friendlyrobotnyc/TinyDancer [方式2]
